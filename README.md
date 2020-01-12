@@ -14,10 +14,13 @@ The iPython document requires the following packages;
 ```
 1. numpy
 pip install numpy
+
 2. pandas
 pip install pandas
+
 3. sklearn
 pip install -U scikit-learn
+
 4. nltk
 pip install --user -U nltk
 ```
