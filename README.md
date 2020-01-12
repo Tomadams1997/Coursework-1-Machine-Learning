@@ -7,12 +7,12 @@ This can be installed from the terminal using;
 pip install notebook
 ```
 
-To open the Jupyter Notebooks from the terminal type into the terminal;
+To open the file within Jupyter Notebooks from the terminal, type into the terminal;
 ```
-jupyter notebook
+jupyter notebook part2code_C1621568.ipynb
 ```
 The iPython document requires the following packages;
-```diff
+```
 1. numpy
 2. pandas
 3. sklearn
