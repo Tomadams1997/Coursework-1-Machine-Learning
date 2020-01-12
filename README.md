@@ -1,5 +1,7 @@
 # Coursework-1-Machine-Learning
-Sentiment analysis performed on sets of positive and negative IMDB reviews.
+
+This repository contains a script to perform sentiment analysis on sets of positive and negative IMDB reviews.
+The reviews are attatched split into Training, Development and Testing. These 3 are then again split into both Positive and Negative sets.
 ## Requirements 
 The document requires the use of an iPython IDE, the suggested IDE is Jupyter Notebooks.
 This can be installed from the terminal using;
@@ -24,4 +26,3 @@ pip install -U scikit-learn
 4. nltk
 pip install --user -U nltk
 ```
-The IMDB data sets are attatched within the repository.
